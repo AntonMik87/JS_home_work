@@ -1,0 +1,20 @@
+h1{
+    color: rgb(255, 0, 0); 
+    font-size: 50px;
+    font-style: oblique;
+    text-decoration: underline;
+    text-align: center
+ }
+ strong{
+
+    background-color: rgb(238, 224, 231);
+ }
+
+ul{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ body{ 
+   background-color: rgb(194, 204, 204);
+ }
+ P{ 
+    text-align: center }
