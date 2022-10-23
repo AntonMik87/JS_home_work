@@ -12,9 +12,16 @@ h1{
 
 ul{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center
  }
  body{ 
-   background-color: rgb(194, 204, 204);
+    background-color: rgb(191, 218, 218);
  }
- P{ 
-    text-align: center }
+
+p{ 
+    text-align: center 
+ }
+
+a{
+   color: rgb(10, 68, 5);
+}
